@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Ron👨🏻‍💻</h1>
+
+<img src="https://pbs.twimg.com/media/Fgb5zZPXkAI1ZPz?format=jpg&name=4096x4096" alt="Banner sobre Arturs Smirnovs">
+
 <h3 align="center">Student with knowledge in the area, with ability
 to design, adapt and develop applications of
 software according to the needs of the company or client
