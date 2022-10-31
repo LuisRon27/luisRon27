@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Luis Ron</h1>
-<h3 align="center">A software development student, passionate about frontend development from Argentina</h3>
+<h1 align="center">Hi 👋, I'm Luis Ron👨🏻‍💻</h1>
+<h3 align="center">Student with knowledge in the area, with ability
+to design, adapt and develop applications of
+software according to the needs of the company or client
+through the management of technological tools
+Visual Basic.net and SQL. at the same time with basic knowledge in the design, management and development of the Web, relying on programming languages such as HTML, CSS and JavaScript</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
