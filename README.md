@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Luis Ron</h1>
+<h1 align="center"></h1>
+<h1 align="center">
+    <tt>> Hi, I'm Luis Ron</tt>
+    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=40 /> 
+</h1>
 <h3 align="center">As a software development student in Argentina, my ardor for technology and programming has propelled me to specialize in web and desktop application development. My front-end proficiency encompasses a solid understanding of HTML, CSS, JavaScript, TypeScript, Angular, Git, GitHub, and Bootstrap, allowing me to craft attractive and highly functional user interfaces. Moreover, I have hands-on experience building desktop applications with VB.NET and SQL Server, affording me a comprehensive grasp of the challenges and exigencies of users across diverse platforms. My aspiration is to continue expanding my horizons in the realm of software development, assimilating from the finest minds in the field and applying my competencies to forge innovative and efficient solutions.</h3>
 
 - 📫 How to reach me **Luisron39@gmail.com**
