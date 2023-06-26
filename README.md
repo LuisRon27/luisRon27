@@ -1,7 +1,7 @@
 <h1 align="center">
     <tt>> Hi, I'm Luis Ron</tt>
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=40 /> 
-    <h3 align="center">Junior Software Developert</h3>
+    <h3 align="center">Junior Software Developer</h3>
 </h1>
 
 <h3 align="center">As a software development student from Argentina, I specialize in web and desktop application development. I have expertise in front-end technologies like HTML, CSS, JavaScript, TypeScript, Angular, Git, GitHub, and Bootstrap. I also have hands-on experience with VB.NET and SQL Server for building desktop applications. My goal is to continue growing in software development, learn from the best in the field, and create innovative solutions.</h3>
