@@ -1,10 +1,10 @@
 <div align="center">
 <h1><tt>&gt; Hi, I'm Luis Ron</tt></h1>
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40" />
-<h3>Junior Software Developer</h3>   
+Junior Software Developer 
 </div>
 
-<h3 align="center">As a software development student. My focus is on high performance desktop and web applications. As a full-stack developer, I cover front-end (HTML, CSS, JavaScript, TypeScript, Angular, React) and back-end (C#, ASP.NET Core, SQL Server). I build attractive and secure interfaces, and I have experience in VB.NET and SQL for desktop applications. I am looking to create innovative solutions and keep learning in the field!</h3>
+As a software development student. My focus is on high performance desktop and web applications. As a full-stack developer, I cover front-end (HTML, CSS, JavaScript, TypeScript, Angular, React) and back-end (C#, ASP.NET Core, SQL Server). I build attractive and secure interfaces, and I have experience in VB.NET and SQL for desktop applications. I am looking to create innovative solutions and keep learning in the field!
 
 - 📫 How to reach me **Luisron39@gmail.com**
 
