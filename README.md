@@ -1,9 +1,8 @@
 <div align="center">
-<h1><tt>&gt; Hola, soy Luis Ron.</tt><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40" /></h1>
-  
-Software Developer Full Stack 
-  
+<h1 align="center"><tt align="center">&gt; Hola, soy Luis Ron.</tt><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40" /></h1>
+   
 </div>
+<h3 align="center">Software Developer Full Stack</h3>
 
 Como Desarrollo de Software, mi enfoque se centra en aplicaciones de escritorio y web de alto rendimiento. Como desarrollador full-stack, abarco el front-end (HTML, CSS, JavaScript, TypeScript, Angular, React) y el back-end (C#, ASP.NET Core, SQL Server). Construyo interfaces atractivas y seguras, y tengo experiencia en VB.NET y SQL para aplicaciones de escritorio. ¡Estoy buscando crear soluciones innovadoras y seguir aprendiendo en el campo!
 
